@@ -27,3 +27,10 @@ To convert and transfer audio files you need a library **FFmpeg**.
 You can download **FFmpeg** from the following [link](https://ffmpeg.org/download.html).
 
 # Bot preview
+
+![](README_images/help.PNG)
+
+![](README_images/preview_1.PNG)
+
+![](README_images/preview_2.PNG)
+
