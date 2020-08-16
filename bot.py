@@ -144,7 +144,7 @@ def _play_audio(ctx):
     и MUSIC_QUEUE_LIST.
     """
     if QUEUE_MUSIC:
-        ctx.voice_client.play(discord.FFmpegPCMAudio(executable="C:/Users/maksi/ffmpeg/bin/ffmpeg.exe",
+        ctx.voice_client.play(discord.FFmpegPCMAudio(executable="C:/Users/maksi/ffmpeg/bin/ffmpeg.exe",  # путь к ffmpeg.exe
                                                      source=f'music/{QUEUE_MUSIC[0]}'),
                               after=lambda e: _play_audio(ctx))
         QUEUE_MUSIC.pop(0)
