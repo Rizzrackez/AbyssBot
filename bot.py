@@ -174,7 +174,7 @@ async def play(ctx, url: str = None):
             result_str = str(time.time())
             ydl_opts = {
                 'format': 'bestaudio/best',
-                'outtmpl': f'/music/{result_str}.m4a',  # имя и формат создаваемого файла
+                'outtmpl': f'/music/{result_str}.m4a',  # имя и формат создаваемого аудиофайла
                 'noplaylist': True,
             }
 
