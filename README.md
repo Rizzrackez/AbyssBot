@@ -6,3 +6,5 @@ Music discord bot on python.
 ### Discord developer portal
 ### Python modules
 ### FFmpeg
+
+# Bot preview
