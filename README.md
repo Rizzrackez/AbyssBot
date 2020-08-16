@@ -31,7 +31,11 @@ You can download **FFmpeg** from the following [link](https://ffmpeg.org/downloa
 
 ![](README_images/help.PNG)
 
+**```!gif```, ```!anime```**
+
 ![](README_images/preview_1.PNG)
+
+**```!help```** allows view all Bot commands.
 
 ![](README_images/preview_2.PNG)
 
