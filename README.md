@@ -37,7 +37,6 @@ You can download **FFmpeg** from the following [link](https://ffmpeg.org/downloa
 
 **```!play```** allows Bot to join the voice channel and play the selected video in **m4a** format.
 
-After use the **```!play```** command will add the specified audio to the music queue.
-
 ![](README_images/preview_2.PNG)
 
+After use the **```!play```** command will add the specified audio to the music queue.
