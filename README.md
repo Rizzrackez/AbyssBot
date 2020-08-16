@@ -27,7 +27,7 @@ To convert and transfer audio files you need a library **FFmpeg**.
 You can download **FFmpeg** from the following [link](https://ffmpeg.org/download.html).
 
 # Bot preview
-**```!help```** allows you to view all the bot commands.
+**```!help```** allows view all Bot commands.
 
 ![](README_images/help.PNG)
 
