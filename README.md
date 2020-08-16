@@ -12,7 +12,7 @@ Select **New Application**:
 
 ![](README_images/new_application.PNG)
 
-Then you will need to create a Bot. To do so, select Add Bot:
+Then you will need to create a Bot. To do so, select **Add Bot**:
 
 ![](README_images/add_bot.PNG)
 
@@ -22,5 +22,8 @@ Make sure Python 3.7+ and pip are installed. Run:
 ```pip install -r requirements.txt```
 
 ### FFmpeg
+To convert and transfer audio files you need a library **FFmpeg**.
+
+You can download **FFmpeg** from the following [link](https://ffmpeg.org/download.html).
 
 # Bot preview
