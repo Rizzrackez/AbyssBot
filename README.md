@@ -14,7 +14,7 @@ Select **New Application**:
 
 Then you will need to create a Bot. To do so, select **Add Bot**:
 
-<img src="README_images/add_bot.PNG" width="500" height="225>
+<img src="README_images/add_bot.PNG" width="500" height="225/>
 
 ### Python modules
 Make sure Python 3.7+ and pip are installed. Run:
