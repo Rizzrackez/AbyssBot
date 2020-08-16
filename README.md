@@ -8,7 +8,8 @@ You can see the bot commands in the preview section.
 
 ### Python modules
 Make sure Python 3.7+ and pip are installed. Run:
-**pip install -r requirements.txt**
+
+```pip install -r requirements.txt```
 
 ### FFmpeg
 
