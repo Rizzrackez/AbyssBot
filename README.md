@@ -7,6 +7,7 @@ You can see the Bot commands in the preview section.
 
 ### Discord developer portal
 First you need to go to the following [link](https://discord.com/developers/applications) to create a new application, select **New Application**:
+![](README.md\new_application.PNG)
 
 ### Python modules
 Make sure Python 3.7+ and pip are installed. Run:
