@@ -1,7 +1,7 @@
 # AbyssBot
 A simple music bot on Python using API of discord.py.
 
-You can see the Bot commands in the preview section.
+You can see the Bot commands in the **Bot preview** section.
 
 # Installation
 
