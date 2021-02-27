@@ -24,7 +24,7 @@ Make sure Python 3.7+ and pip are installed. Run:
 ### FFmpeg
 To convert and transfer audio files you need a library **FFmpeg**.
 
-You can download **FFmpeg** from the following [link](https://ffmpeg.org/download.html).
+You can download **FFmpeg** from the following [link](https://ffmpeg.org/download.html)
 
 # Bot preview
 **```!help```** allows view all Bot commands.
